@@ -29,7 +29,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ikawaha/kagome/tokenizer"
+	"github.com/dropbox/kagome/tokenizer"
 )
 
 // subcommand property

@@ -20,9 +20,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ikawaha/kagome/cmd/kagome/lattice"
-	"github.com/ikawaha/kagome/cmd/kagome/server"
-	"github.com/ikawaha/kagome/cmd/kagome/tokenize"
+	"github.com/dropbox/kagome/cmd/kagome/lattice"
+	"github.com/dropbox/kagome/cmd/kagome/server"
+	"github.com/dropbox/kagome/cmd/kagome/tokenize"
 )
 
 var (

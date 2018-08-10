@@ -19,9 +19,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ikawaha/kagome/cmd/_dictool/ipa"
-	"github.com/ikawaha/kagome/cmd/_dictool/juman"
-	"github.com/ikawaha/kagome/cmd/_dictool/uni"
+	"github.com/dropbox/kagome/cmd/_dictool/ipa"
+	"github.com/dropbox/kagome/cmd/_dictool/juman"
+	"github.com/dropbox/kagome/cmd/_dictool/uni"
 )
 
 var errorWriter = os.Stderr
